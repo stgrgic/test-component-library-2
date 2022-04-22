@@ -1,0 +1,24 @@
+{
+  "name": "@stgrgic/test-component-library-2",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stgrgic/test-component-library-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stgrgic/test-component-library-2/issues"
+  },
+  "homepage": "https://github.com/stgrgic/test-component-library-2#readme",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
+  }
+}
